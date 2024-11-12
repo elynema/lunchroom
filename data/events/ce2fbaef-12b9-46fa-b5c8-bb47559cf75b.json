@@ -11,7 +11,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Not pulling in even the video from https://demo.avalonmediasystem.org/media_objects/pk02cb02n/manifest"
         }
       ]
     }
@@ -19,7 +19,7 @@
   "created_at": "2024-11-12T17:22:34.146Z",
   "created_by": "elynema",
   "item_type": "Audio",
-  "label": "Imported Event 1",
-  "updated_at": "2024-11-12T17:22:34.146Z",
+  "label": "Avalon manifest",
+  "updated_at": "2024-11-12T17:25:30.351Z",
   "updated_by": "elynema"
 }
